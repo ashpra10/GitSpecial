@@ -14,5 +14,7 @@ class test
 	{
 		test obj= new test(50, "Biranchi Narayan Pradhan");
 		System.out.println("ashpra");
+
+		System.out.println("ash:");
 	}
 }
